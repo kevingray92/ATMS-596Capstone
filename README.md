@@ -9,7 +9,11 @@ Conclusion 1
 Conclusion 2
 
 Files:
+
 Pythoncode.ipynb  dkjafkdjsakfjdskjfls
+
 Plottingcode.ipynb This plots the 500 mb heights over the West coast.
+
 statscode.py
+
 data1.nc
