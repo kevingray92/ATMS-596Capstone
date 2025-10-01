@@ -16,4 +16,4 @@ Plottingcode.ipynb This plots the 500 mb heights over the West coast.
 
 statscode.py
 
-data1.nc
+data1.nc (Find this file at this pathway on Keeling. Or download from fdkjalkfdjl.com)
