@@ -1,4 +1,4 @@
-# ATMS-596Capstone
+# ATMS-596 Capstone
 Online Capstone instructor files.
 
 Give an overview of your capstone here: The Online Capstone is the last big project conducted by online master's students. We provided a weekly meeting with students as part of this course. During our weekly meeting, essential research skills were presented and practiced. This repository holds some of the example code presented during our weekly meetings.
