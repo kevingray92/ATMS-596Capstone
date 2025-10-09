@@ -11,8 +11,6 @@ Files:
 
 **ViewUpdraft_withOutput.ipynb**  Used to demonstrate that you should run the code before uploading it to GitHub if you want output/plots to be visible.
 
-**Plottingcode.ipynb**  This plots the 500 mb heights over the West coast.
-
 **GriddingObs.ipynb**  Adapted code from a MetPy cookbook demonstrating how to regrid unevenly spaced observations.
 
 **ViewAnomalies.ipynb**  Code used to open ERA5 grib files containing monthly average wind and wave information in the decade leading up to the wreck of The Edmund Fitzgerald and compute anomalies using hourly data valid at the time of the wreck.
