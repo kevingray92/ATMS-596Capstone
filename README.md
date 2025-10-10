@@ -15,6 +15,8 @@ Files:
 
 **ViewAnomalies.ipynb**  Code used to open ERA5 grib files containing monthly average wind and wave information in the decade leading up to the wreck of The Edmund Fitzgerald and compute anomalies using hourly data valid at the time of the wreck.
 
+**HowToSavePDF.ipynb**  A quick example of how to save figures as .pdf files.
+
 **ERA5Hourly.grib**  A grib file holding ERA5 wind and wave information every 6 hours around the time of the wreck of the Edmund Fitzgerald.
 
 **ERA5MonthlyAveraged.grib**  A grib file holding ERA5 wind and wave information averaged for the month of Nov in the years from 1965-1975.
