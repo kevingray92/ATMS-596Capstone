@@ -5,7 +5,7 @@ Give an overview of your capstone here: The Online Capstone is the last big proj
 
 Files:
 
-**ViewUpdraft.ipynb**  Code used to take horizontal and vertical slices through some CM1 output.
+**ViewUpdraft.ipynb**  Code used to take horizontal and vertical slices through some CM1 output (data path on Keeling: /data/scratch/a/kevintg2/ATMS-596/Week5).
 
 **ViewUpdraft_BlankCopy.ipynb**  The same as above, but only comments are provided so that students could write in the code themselves as they follow along with the instructor.
 
